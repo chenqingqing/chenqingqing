@@ -1,1 +1,1 @@
-<img alt="Qingqing's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=chenqingqing&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true"><img alt="Qingqing's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=chenqingqing&theme=solarized-light&hide_border=true" width="48%">
+<img alt="Qingqing's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=chenqingqing&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
