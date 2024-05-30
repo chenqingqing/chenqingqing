@@ -1,4 +1,4 @@
-👋 Hello, I am a Ph.D. ABD under the supervision of [Dr. Andrew Crooks](https://www.gisagents.org/) in the Department of Geography at the University at Buffalo [(UB)](http://www.buffalo.edu/). My research focuses on critically understanding urban space by leveraging (geo)computational techniques and data informatics. I am interested in *Urban Data Science, Geocomputation, Non-visual sensory measuring & monitoring, Spatial analysis & visualization and Social media & big data*. 
+👋 Hello, I am a Ph.D. Candidate under the supervision of [Dr. Andrew Crooks](https://www.gisagents.org/) in the Department of Geography at the University at Buffalo [(UB)](http://www.buffalo.edu/). My research focuses on critically understanding urban space by leveraging (geo)computational techniques and data informatics. I am interested in *Urban Data Science, Geocomputation, Non-visual sensory measuring & monitoring, Spatial analysis & visualization and Social media & big data*. 
 
 🔬 My academic journey is fortified by a M.S. in Physics from the National University of Singapore [(NUS)](https://www.nus.edu.sg/) and a B.S. from Minjiang University.
 
